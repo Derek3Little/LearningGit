@@ -1,2 +1,2 @@
 # LearningGit
-A repository for learning git!
+This repository will be used for learning git!
